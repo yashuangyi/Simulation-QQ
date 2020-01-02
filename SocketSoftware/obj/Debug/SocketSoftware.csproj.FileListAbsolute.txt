@@ -1,0 +1,112 @@
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.exe.config
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.exe
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.pdb
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\CSkin.dll
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\CSkin.xml
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csprojAssemblyReference.cache
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Login.resources
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Properties.Resources.resources
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csproj.GenerateResource.cache
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csproj.CopyComplete
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.exe
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.pdb
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Chat.resources
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.InfoList.resources
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.exe.config
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.exe
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.pdb
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\bin\Debug\CSkin.xml
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csprojAssemblyReference.cache
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Chat.resources
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.InfoList.resources
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Login.resources
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Properties.Resources.resources
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csproj.GenerateResource.cache
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csproj.CoreCompileInputs.cache
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csproj.CopyComplete
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.exe
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.pdb
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.PersonalInfo.resources
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.AddFriends.resources
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\MySql.Data.dll
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.AddFriends.resources
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.PersonalInfo.resources
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Register.resources
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.FindPassword.resources
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\bin\Debug\MySql.Data.dll
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\bin\Debug\Google.Protobuf.dll
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\bin\Debug\BouncyCastle.Crypto.dll
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\bin\Debug\Renci.SshNet.dll
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\bin\Debug\MySql.Data.xml
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.FindPassword.resources
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Register.resources
+D:\D\VS2019 File\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Msg_IfAddFriend.resources
+E:\Study\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Msg_IfAddFriend.resources
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.exe.config
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.exe
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.pdb
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\bin\Debug\MySql.Data.dll
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\bin\Debug\CSkin.xml
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csprojAssemblyReference.cache
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.AddFriends.resources
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Chat.resources
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.FindPassword.resources
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.InfoList.resources
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Login.resources
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Msg_IfAddFriend.resources
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.PersonalInfo.resources
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Properties.Resources.resources
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Register.resources
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csproj.GenerateResource.cache
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csproj.CopyComplete
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.exe
+E:\Study\大三上课程\C#\代码\仿QQ参考\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.pdb
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\bin\Debug\SocketSoftware.exe.config
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\bin\Debug\SocketSoftware.exe
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\bin\Debug\SocketSoftware.pdb
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\bin\Debug\MySql.Data.dll
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\bin\Debug\Google.Protobuf.dll
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\bin\Debug\BouncyCastle.Crypto.dll
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\bin\Debug\Renci.SshNet.dll
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\bin\Debug\CSkin.xml
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\bin\Debug\MySql.Data.xml
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.csprojAssemblyReference.cache
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.AddFriends.resources
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.Chat.resources
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.FindPassword.resources
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.InfoList.resources
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.Login.resources
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.Msg_IfAddFriend.resources
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.PersonalInfo.resources
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.Properties.Resources.resources
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.Register.resources
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.csproj.GenerateResource.cache
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.csproj.CoreCompileInputs.cache
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.csproj.CopyComplete
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.exe
+D:\D\VS2019 File\SocketSoftware1\SocketSoftware\obj\Debug\SocketSoftware.pdb
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csprojAssemblyReference.cache
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.AddFriends.resources
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Chat.resources
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.FindPassword.resources
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.InfoList.resources
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Login.resources
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Msg_IfAddFriend.resources
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.PersonalInfo.resources
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Properties.Resources.resources
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.Register.resources
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csproj.GenerateResource.cache
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csproj.CoreCompileInputs.cache
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.exe
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.pdb
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.exe.config
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.exe
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\SocketSoftware.pdb
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\CSkin.dll
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\MySql.Data.dll
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\Google.Protobuf.dll
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\BouncyCastle.Crypto.dll
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\Renci.SshNet.dll
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\CSkin.xml
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\bin\Debug\MySql.Data.xml
+F:\Study\校内课程\大三上课程\C#\代码\SocketSoftware\SocketSoftware\obj\Debug\SocketSoftware.csproj.CopyComplete
